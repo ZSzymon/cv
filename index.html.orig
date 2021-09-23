@@ -43,8 +43,8 @@ html{font-size:100%;}a,.page-title{color:#1b1f29;}a:hover,a:focus{color:#f44a25;
 @font-face{font-family:eicons;src:url(http://46.101.242.190/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(http://46.101.242.190/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(http://46.101.242.190/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(http://46.101.242.190/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(http://46.101.242.190/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(http://46.101.242.190/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
 </style>
 <link rel='stylesheet' id='elementor-post-205-css'  href='http://46.101.242.190/wp-content/uploads/elementor/css/post-205.css?ver=1628604995' media='all' />
-<link rel='stylesheet' id='elementor-post-1111-css'  href='http://46.101.242.190/wp-content/uploads/elementor/css/post-1111.css?ver=1632337357' media='all' />
 <link rel='stylesheet' id='hfe-widgets-style-css'  href='http://46.101.242.190/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.3' media='all' />
+<link rel='stylesheet' id='elementor-post-1111-css'  href='http://46.101.242.190/wp-content/uploads/elementor/css/post-1111.css?ver=1632385148' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CInter%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.8' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://46.101.242.190/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='http://46.101.242.190/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
@@ -52,7 +52,7 @@ html{font-size:100%;}a,.page-title{color:#1b1f29;}a:hover,a:focus{color:#f44a25;
 			/* <![CDATA[ */
 			var rcewpp = {
 				"ajax_url":"http://46.101.242.190/wp-admin/admin-ajax.php",
-				"nonce": "093c35df5e",
+				"nonce": "55eada4a5a",
 				"home_url": "http://46.101.242.190"
 			};
 			/* ]]\> */
@@ -382,68 +382,17 @@ class="post-1111 page type-page status-publish ast-article-single" id="post-1111
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-3c08023 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3c08023" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-142d8e6" data-id="142d8e6" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-f690fd5 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f690fd5" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-3ce5261" data-id="3ce5261" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6fc0f90 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="6fc0f90" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-4cef1dd elementor-widget elementor-widget-heading" data-id="4cef1dd" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">My Tech Stack</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-c901e9b elementor-widget elementor-widget-text-editor" data-id="c901e9b" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<p>I learn something</p>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-89bbafa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="89bbafa" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b47a373 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b47a373" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-267f518" data-id="267f518" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cf6fa7c" data-id="cf6fa7c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b7fab1a elementor-widget elementor-widget-image" data-id="b7fab1a" data-element_type="widget" data-widget_type="image.default">
+								<div class="elementor-element elementor-element-333a72c elementor-widget elementor-widget-spacer" data-id="333a72c" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
-																<a href="https://github.com/ZSzymon/BA_Summary">
-							<img width="640" height="345" src="http://46.101.242.190/wp-content/uploads/2021/08/640px-Scikit_learn_logo_small.svg.png" class="elementor-animation-grow attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="http://46.101.242.190/wp-content/uploads/2021/08/640px-Scikit_learn_logo_small.svg.png 640w, http://46.101.242.190/wp-content/uploads/2021/08/640px-Scikit_learn_logo_small.svg-300x162.png 300w" sizes="(max-width: 640px) 100vw, 640px" />								</a>
-															</div>
-				</div>
-					</div>
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6cdc01c" data-id="6cdc01c" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-0925ae4 elementor-widget elementor-widget-image" data-id="0925ae4" data-element_type="widget" data-settings="{&quot;_animation_tablet&quot;:&quot;none&quot;}" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-																<a href="https://github.com/ZSzymon/Clinic-Project">
-							<img width="300" height="105" src="http://46.101.242.190/wp-content/uploads/2021/08/django-community-logo-black-and-white-300x105.png" class="elementor-animation-grow attachment-medium size-medium" alt="" loading="lazy" srcset="http://46.101.242.190/wp-content/uploads/2021/08/django-community-logo-black-and-white-300x105.png 300w, http://46.101.242.190/wp-content/uploads/2021/08/django-community-logo-black-and-white-1024x358.png 1024w, http://46.101.242.190/wp-content/uploads/2021/08/django-community-logo-black-and-white-768x268.png 768w, http://46.101.242.190/wp-content/uploads/2021/08/django-community-logo-black-and-white-1536x536.png 1536w, http://46.101.242.190/wp-content/uploads/2021/08/django-community-logo-black-and-white-2048x715.png 2048w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
-															</div>
 				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d109aec" data-id="d109aec" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-90262f1 elementor-widget elementor-widget-image" data-id="90262f1" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-																<a href="https://zszymon.github.io/index.html">
-							<img width="300" height="100" src="http://46.101.242.190/wp-content/uploads/2021/08/wordpress-1-300x100.png" class="elementor-animation-grow attachment-medium size-medium" alt="" loading="lazy" srcset="http://46.101.242.190/wp-content/uploads/2021/08/wordpress-1-300x100.png 300w, http://46.101.242.190/wp-content/uploads/2021/08/wordpress-1-768x257.png 768w, http://46.101.242.190/wp-content/uploads/2021/08/wordpress-1.png 896w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
-															</div>
 				</div>
-					</div>
-		</div>
-							</div>
-		</section>
 					</div>
 		</div>
 							</div>
@@ -510,8 +459,8 @@ Stay in movement.</p>
 											<div class="site-footer-primary-section-3 site-footer-section site-footer-section-3">
 							<aside 
 		class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-4" aria-label="Footer Widget 4"		>
-			<div class="footer-widget-area-inner site-info-inner"><section id="nav_menu-2" class="widget widget_nav_menu"><h2 class="widget-title">Quick Link</h2><nav class="menu-quick-link-container" aria-label="Quick Link"><ul id="menu-quick-link" class="menu"><li id="menu-item-544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-544"><a href="https://zszymon.github.io/cv/about/" class="menu-link">About Me</a></li>
-<li id="menu-item-546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-546"><a href="#" class="menu-link">Projects</a></li>
+			<div class="footer-widget-area-inner site-info-inner"><section id="nav_menu-2" class="widget widget_nav_menu"><h2 class="widget-title">Quick Link</h2><nav class="menu-quick-links-container" aria-label="Quick Link"><ul id="menu-quick-links" class="menu"><li id="menu-item-544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-544"><a href="https://zszymon.github.io/cv/about/" class="menu-link">About Me</a></li>
+<li id="menu-item-546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-546"><a href="https://zszymon.github.io/cv/index.html%3Fp=688.html" class="menu-link">Projects</a></li>
 <li id="menu-item-548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-548"><a href="https://zszymon.github.io/cv/contact/" class="menu-link">Contact Me</a></li>
 </ul></nav></section></div>		</aside>
 						</div>
@@ -519,7 +468,8 @@ Stay in movement.</p>
 							<aside
 		class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-2" aria-label="Footer Widget 2"		>
 			<div class="footer-widget-area-inner site-info-inner"><section id="text-1" class="widget widget_text"><h2 class="widget-title">Contact Me</h2>			<div class="textwidget"><p>Lublin, Poland<br />
-szymon.zywko@outlook.com</p>
+szymon.zywko@outlook.com<br />
+szymonzywko@gmail.com</p>
 </div>
 		</section></div>		</aside>
 						</div>
